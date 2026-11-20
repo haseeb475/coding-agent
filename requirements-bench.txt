@@ -1,0 +1,6 @@
+# Optional: benchmark runners (python main.py --humaneval / --swebench).
+-r requirements.txt
+human-eval>=1.0.0
+datasets>=2.14.0
+# SWE-bench official evaluation (also needs Docker on Linux/WSL2).
+swebench>=2.0.0
