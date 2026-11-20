@@ -107,8 +107,8 @@ All SWE-bench numbers come from the **official SWE-bench Docker evaluator**, not
 ## Installation
 
 ```bash
-git clone https://github.com/<your-account>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/haseeb475/coding-agent.git
+cd coding-agent
 
 python -m venv venv
 source venv/bin/activate            # Windows: venv\Scripts\activate

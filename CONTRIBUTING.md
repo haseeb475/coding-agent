@@ -5,8 +5,8 @@ Thanks for your interest in improving Coding Agent! Bug reports, documentation f
 ## Development setup
 
 ```bash
-git clone https://github.com/<your-account>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/haseeb475/coding-agent.git
+cd coding-agent
 python -m venv venv && source venv/bin/activate     # Windows: venv\Scripts\activate
 pip install -r requirements-dev.txt
 cp .env.example .env                                 # only needed to talk to a real LLM
