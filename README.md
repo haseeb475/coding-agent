@@ -353,13 +353,18 @@ The agent runs code that the LLM writes, as your user, with your permissions. `e
 - When a SWE-bench run resumes, earlier tasks are re-recorded with empty statistics in `swebench_agent_*.json`. The predictions themselves are kept.
 - The Windows terminal (via `pywinpty`) and native Windows support in general are not covered by CI.
 
+## Authors
+
+- **Haseeb Ramzan** ([@haseeb475](https://github.com/haseeb475))
+- **Ali Mohammed**
+
 ## Contributing
 
 Contributions are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for setup, tests and the pull request process.
 
 ## License
 
-Released under the [MIT License](LICENSE).
+Released under the [MIT License](LICENSE). Copyright (c) 2026 Haseeb Ramzan and Ali Mohammed.
 
 ## Acknowledgements
 
